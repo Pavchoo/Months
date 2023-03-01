@@ -1,0 +1,15 @@
+E:\visual studio\1to7\1to7\bin\Debug\net6.0\1to7.exe
+E:\visual studio\1to7\1to7\bin\Debug\net6.0\1to7.deps.json
+E:\visual studio\1to7\1to7\bin\Debug\net6.0\1to7.runtimeconfig.json
+E:\visual studio\1to7\1to7\bin\Debug\net6.0\1to7.dll
+E:\visual studio\1to7\1to7\bin\Debug\net6.0\1to7.pdb
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.csproj.AssemblyReference.cache
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.AssemblyInfoInputs.cache
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.AssemblyInfo.cs
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.csproj.CoreCompileInputs.cache
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.dll
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\refint\1to7.dll
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.pdb
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\1to7.genruntimeconfig.cache
+E:\visual studio\1to7\1to7\obj\Debug\net6.0\ref\1to7.dll
